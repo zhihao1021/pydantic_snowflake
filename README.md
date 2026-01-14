@@ -12,7 +12,7 @@ A Pydantic custom type for validating and serializing Snowflake IDs.
 You can install the package via pip:
 
 ```bash
-pip install -U pydantic-snowflakes
+pip install -U pydantic-snowflake
 ```
 
 ## Usage

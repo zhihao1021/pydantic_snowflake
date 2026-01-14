@@ -18,7 +18,7 @@ pip install -U pydantic-snowflakes
 ## Usage
 ```python
 from pydantic import BaseModel
-from pydantic_snowflakes import SnowflakeId, SnowflakeGenerator
+from pydantic_snowflake import SnowflakeId, SnowflakeGenerator
 
 from datetime import datetime
 

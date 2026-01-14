@@ -8,7 +8,7 @@ description = "A Pydantic custom type for handling Snowflake IDs with ease."
 license = "MIT"
 license-files = ["LICENSE"]
 authors = [{ name = "Chih-Hao Chuang", email = "contact@chih-hao.xyz" }]
-version = "0.1.1"
+version = "0.1.2"
 readme = "README.md"
 keywords = ["pydantic", "snowflake", "custom type", "data validation"]
 classifiers = [
